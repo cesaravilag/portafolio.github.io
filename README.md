@@ -31,15 +31,7 @@ de aprender y mejorar.
 
 
 
-
-
-
-
-
-
 <center><span style="font-size: 20px;"><b>PROYECTOS REALIZADOS</b></span></center>
-
-
 
 ## Planos de Detalle 
 
