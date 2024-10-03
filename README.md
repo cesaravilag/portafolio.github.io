@@ -26,10 +26,10 @@ de aprender y mejorar.
 
 
 ## Gestión de proyectos con Primavera P6
-[![Facebook](https://img.shields.io/badge/GoogleDrive-PLANOS_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-CERTIFICADO-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
 
 ## Administración de subcontratos y contratos NEC3 Y NEC4
-[![Facebook](https://img.shields.io/badge/GoogleDrive-PLANOS_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-CERTIFICADO-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/file/d/1_07lF5Fku8GWK9wQwANcroV_wjsMrVC4/view?usp=sharing)
 
 
 
