@@ -35,7 +35,7 @@ Planos realizados en Tekla Structures
 
 
 <p align="center">
-<img src="build\img\3D.png" width="100%" height="70%">
+<img src="archivos\img\3D.png" width="100%" height="70%">
 <img src="build\img\det1.PNG" width="48%" height="50%">
 <img src="build\img\det2.PNG" width="48%" height="50%">
 
