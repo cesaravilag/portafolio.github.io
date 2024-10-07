@@ -57,15 +57,16 @@ Planos realizados en Tekla Structures
 
 ## Web scraping para reportes de datos
 
-Análisis de Precios de Departamentos por número de dormitorios en Pueblo Libre
+Análisis de Precios de Departamentos por número de dormitorios en Pueblo Libre <br>
 En esta infografía, se presenta un análisis detallado de los precios de departamentos en alquiler en el distrito de Pueblo Libre, Lima, 
 según el número de dormitorios que poseen. Este estudio está basado en datos recientes de inmuebles en alquiler, lo que permite 
 obtener una visión clara y precisa del mercado inmobiliario en la zona.
 
 
-<br>La infografía y el código se puede encontrar en el siguiente link se pueden encontrar en el siguiente link
+<br>La infografía y el excel se pueden encontrar en el siguiente link se pueden encontrar en el siguiente link
 
-[![Facebook](https://img.shields.io/badge/GoogleDrive-SCRIPT-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-Archivos-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+
 
 <p align="center">
 <img src="archivos\img\INFOGRA_P1.PNG" width="70%" height="70%">
