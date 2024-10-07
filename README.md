@@ -63,7 +63,7 @@ según el número de dormitorios que poseen. Este estudio está basado en datos 
 obtener una visión clara y precisa del mercado inmobiliario en la zona.
 <br>La infografía y el excel se pueden encontrar en el siguiente link
 
-[![Facebook](https://img.shields.io/badge/GoogleDrive-Archivos-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-Archivos-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1XN2lJ4RzMpD0cer-76Ocsvf40PDJ_T69?usp=drive_link)
 
 <p align="center">
 <img src="archivos\img\INFOGRA_P1.PNG" width="70%" height="70%">
