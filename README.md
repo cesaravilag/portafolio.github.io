@@ -65,7 +65,7 @@ obtener una visión clara y precisa del mercado inmobiliario en la zona.
 
 <br>La infografía y el código se puede encontrar en el siguiente link se pueden encontrar en el siguiente link
 
-[![Facebook](https://img.shields.io/badge/GoogleDrive-PLANOS_PDF-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
+[![Facebook](https://img.shields.io/badge/GoogleDrive-SCRIPT-yellow?logo=Googledrive&logoColor=yellow)](https://drive.google.com/drive/folders/1SlJEQM-Zb3mOb0qQh0Uv4PqESutRHVYk?usp=sharing)
 
 <p align="center">
 <img src="archivos\img\INFOGRA_P1.PNG" width="70%" height="70%">
